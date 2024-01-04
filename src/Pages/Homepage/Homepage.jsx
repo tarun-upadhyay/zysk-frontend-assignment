@@ -4,6 +4,10 @@ import HomepageNav from "../../ui-components/Homepage/HomepageNav";
 import Herosection from "../../ui-components/Homepage/Herosection";
 import { sec1Data } from "../../Utils/CardsData";
 import Feature from "../../ui-components/Homepage/Feature";
+import DetailTextCard from "../../ui-components/Homepage/DetailTextCard";
+import { FeatureSection } from "../../ui-components/Homepage/FeatureSection";
+import HowItsWorkSection from "../../ui-components/Homepage/HowItsWorkSection";
+import EmpoweringWellness from "../../ui-components/Homepage/EmpoweringWellness";
 
 const Homepage = () => {
   return (
@@ -31,9 +35,9 @@ const Homepage = () => {
           })}
         </div>
       </section>
-      <section>
-        
-      </section>
+      <FeatureSection />
+      <HowItsWorkSection />
+      <EmpoweringWellness />
     </div>
   );
 };
