@@ -6,3 +6,29 @@
 body {
   font-family: "Space Grotesk", sans-serif;
 }
+
+.navigation {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.navigation li {
+  display: inline-block;
+  margin: 0 5px;
+  font-size: 18px;
+  transition: opacity 0.3s ease; /* Adding transition for smooth effect */
+}
+
+.navigation li:hover {
+  opacity: 0.5; /* Reduce opacity on hover */
+}
+
+.navigation li:hover ~ li {
+  opacity: 0.5; /* Mute other items when hovering one */
+}
+
+.navigation li:hover,
+.navigation li:hover ~ li:hover {
+  opacity: 1; /* Keep opacity at full for the hovered item */
+}
