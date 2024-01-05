@@ -26,7 +26,7 @@ I created this website as a clone of VitaBot-X, basically showcasing my skills i
 ## Clone or Download
 
 ```terminal
-$ git clone https://github.com/tarun-upadhyay/techEagle_FullStack_Assingment.git
+$ git clone https://github.com/tarun-upadhyay/zysk-frontend-assignment.git
 $ yarn # or npm i
 ```
 
