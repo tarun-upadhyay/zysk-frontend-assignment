@@ -8,10 +8,19 @@ body {
 }
 
 @keyframes bounce {
-  0%, 100% {
+  0%,
+  100% {
     transform: translateY(0);
   }
   50% {
     transform: translateY(-20px);
   }
+}
+
+.accordion-arrow {
+  color: blue;
+}
+
+iframe#webpack-dev-server-client-overlay {
+  display: none !important;
 }

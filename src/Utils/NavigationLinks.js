@@ -1,18 +1,18 @@
 export const NavigatinLinks = [
   {
-    to: "features",
+    to: "#features",
     title: "Features",
   },
   {
-    to: "howitworks",
+    to: "#howitworks",
     title: "How it works",
   },
   {
-    to: "screenshots",
+    to: "#screenshots",
     title: "Screenshots",
   },
   {
-    to: "faq",
+    to: "#faq",
     title: "FAQ",
   },
 ];
