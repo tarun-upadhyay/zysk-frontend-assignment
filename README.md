@@ -1,70 +1,106 @@
-# Getting Started with Create React App
+<h1 align="center">
+🌐 React App
+</h1>
+<p align="center">
+   <a href="https://github.com/amazingandyyy/mern/blob/master/LICENSE">
+      <img src="https://img.shields.io/badge/License-MIT-green.svg" />
+   </a>
+   <a href="https://circleci.com/gh/amazingandyyy/mern">
+      <img src="https://circleci.com/gh/amazingandyyy/mern.svg?style=svg" />
+   </a>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Zysk Frontend Coding Assignment.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+I created this website as a clone of VitaBot-X, basically showcasing my skills in frontend programming.
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Requirements
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- For development, you will only need Node.js and a node global package, NPM, installed in your environement.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Clone or Download
 
-### `npm run build`
+```terminal
+$ git clone https://github.com/tarun-upadhyay/techEagle_FullStack_Assingment.git
+$ yarn # or npm i
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Project structure
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```terminal
+frontend
+    - package.json
+    - src
+        - index.js
+        - App.jsx
+     - Components
+     - Pages
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```
 
-### `npm run eject`
+## Client-side usage(PORT: 3000)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```terminal
+$ cd frontend          // go to frontend folder
+$ yarn # or npm i     // npm install packages
+$ npm start          // run it locally
+```
+## Glimpses
+![Alt text](./repoImg/image.png)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
+![Alt text](./repoImg/image-1.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+![Alt text](./repoImg/image-2.png)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![Alt text](./repoImg/image-3.png)
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+![Alt text](./repoImg/image-4.png)
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+![Alt text](./repoImg/image-5.png)
 
-### Making a Progressive Web App
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+![Alt text](./repoImg/image-6.png)
 
-### Advanced Configuration
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+![Alt text](./repoImg/image-7.png)
 
-### Deployment
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+![Alt text](./repoImg/image-8.png)
 
-### `npm run build` fails to minify
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Alt text](./repoImg/image-9.png)
+
+---
+---
+# Thank you for your time 
+-   Thank you for using this application
+-   Feel free to ask any query.
+
+[My Github](https://github.com/tarun-upadhyay)
+https://github.com/tarun-upadhyay
+
+[My Portfolio](https://tarun-upadhyay.github.io/)
+https://tarun-upadhyay.github.io/
+
+[Email ME](mailto:tarunu88@gmail.com)
+
+---
