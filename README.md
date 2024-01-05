@@ -17,7 +17,10 @@
 I created this website as a clone of VitaBot-X, basically showcasing my skills in frontend programming.
 
 ---
-
+## Tech Stack
+- ReactJs
+- TailwindCss
+- Flowbite Components
 ## Requirements
 
 - For development, you will only need Node.js and a node global package, NPM, installed in your environement.
